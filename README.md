@@ -2,6 +2,9 @@
 
 It is for educational purposes only and any misuse to cause damage, create malware, etc. is the responsibility of the user.
 
+##
+https://github.com/user-attachments/assets/0c05fb40-910a-4d7c-ad4f-96fa96e6221d
+##
 
 # Nanomits Protection
 If you are familiar with the Armadillo program, you will remember that this software had a very interesting feature called "Nanomits", which was created to prevent dumps from being taken from protected processes. The source code below is actually a re-engineered version of the original product's behavior that is available to everyone.
