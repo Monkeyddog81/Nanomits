@@ -3,7 +3,6 @@
 It is for educational purposes only and any misuse to cause damage, create malware, etc. is the responsibility of the user.
 
 ##
-https://github.com/user-attachments/assets/0c05fb40-910a-4d7c-ad4f-96fa96e6221d
 ##
 
 # Nanomits Protection
