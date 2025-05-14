@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/b97551fb-36de-46c6-aeb2-ce8343cfc24c
 ##
 
 # Nanomits Protection
-If you are familiar with the Armadillo program, you will remember that this software had a very interesting feature called "Nanomits", which was created to prevent dumps from being taken from protected processes. The source code below is actually a re-engineered version of the original product's behavior that is available to everyone.
+If you are familiar with the Software passport Armadillo program, you will remember that this software had a very interesting feature called "Nanomits", which was created to prevent dumps from being taken from protected processes. The source code below is actually a re-engineered version of the original product's behavior that is available to everyone.
 
 
 # Features & Details
