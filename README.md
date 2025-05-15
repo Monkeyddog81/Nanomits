@@ -13,7 +13,7 @@ If you are familiar with the Software passport Armadillo program, you will remem
 # Features & Details
 - Emulate JMP Instruction
 - Implemented Debug-Block Feature 
-- SampleApp.exe won't work till all stolen bytes recovered.
+- SampleApp.exe won't work till all stolen bytes recovered ( emulated with father process, The code will never be rewritten. )
 
 ##
 
