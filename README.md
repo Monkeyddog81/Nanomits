@@ -18,7 +18,8 @@ If you are familiar with the Software passport Armadillo program, you will remem
 ##
 
 # 🪄 How to Use
-You need Disassembler to identify Start to End VA Address in target binary to overwrite JMP instructions with INT 3.
+You need Disassembler to modify specific area of binary for overwrite JMP instructions with INT 3.
+You can use any disassembler engine you want.
 
 ##
 
